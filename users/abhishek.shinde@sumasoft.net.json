@@ -1,0 +1,410 @@
+{
+  "userid": "abhishek.shinde@sumasoft.net",
+  "createdAt": "2025-06-04T11:09:26.412Z",
+  "mails": [
+    {
+      "to": "awebdev2244@gmail.com",
+      "clientName": "Vipul",
+      "sendername": "TEST",
+      "desg": "testing",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-04T11:27:19.902Z",
+      "messageId": "<6d4add38-68de-04df-9c0a-0fa6fb58a1c1@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-04T11:27:58.151Z",
+      "messageId": "<d40c90ea-d14b-0c5b-677a-d0c20194c546@sumasoft.net>"
+    },
+    {
+      "to": "awebdev2244@gmail.com",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-04T11:31:52.865Z",
+      "messageId": "<099a2617-8ccc-d0e8-1ac1-d4e345f69126@sumasoft.net>"
+    },
+    {
+      "to": "awebdev2244@gmail.com",
+      "clientName": "Vipul",
+      "sendername": "Saket",
+      "desg": "DM Manager ",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-04T11:34:26.785Z",
+      "messageId": "<01a68176-ff77-7b7d-a22d-16b9caae3900@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhi",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-09T05:43:51.290Z",
+      "messageId": "<f4a2814a-e686-66c4-9b45-959c29947742@sumasoft.net>"
+    },
+    {
+      "to": "awebdev2244@gmail.com",
+      "clientName": "Jane Smith",
+      "sendername": "John Doe",
+      "desg": "Project Manager",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-19T09:04:38.809Z",
+      "messageId": "<46dc2095-a70a-a34d-a961-f5af4b6803ac@sumasoft.net>"
+    },
+    {
+      "to": "awebdev2244@gmail.com",
+      "clientName": "Jane Smith",
+      "sendername": "John Doe",
+      "desg": "Project Manager",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-19T09:05:43.298Z",
+      "messageId": "<446fdd71-cef6-5e6e-fb47-331cccc6d2ea@sumasoft.net>"
+    },
+    {
+      "to": "awebdev2244@gmail.com",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-19T09:37:36.470Z",
+      "messageId": "<06cce1f0-99d9-4b35-411a-a55012157369@sumasoft.net>"
+    },
+    {
+      "to": "awebdev2244@gmail.com",
+      "clientName": "Vipul",
+      "sendername": "TEST",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-19T09:46:27.094Z",
+      "messageId": "<880dc601-a745-6346-33c9-e69278415d93@sumasoft.net>"
+    },
+    {
+      "to": "awebdev2244@gmail.com",
+      "clientName": "Vipul",
+      "sendername": "TEST",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-19T09:48:21.033Z",
+      "messageId": "<3c31fbed-47e0-062e-211c-38ac460a9323@sumasoft.net>",
+      "cc": [
+        "vipul.ande@sumasoft.net",
+        "prem.chaurasiya@sumasoft.net"
+      ]
+    },
+    {
+      "to": "awebdev2244@gmail.com",
+      "clientName": "Vipul",
+      "sendername": "abhi",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-19T09:51:28.977Z",
+      "messageId": "<d3d0f72d-5715-3199-b639-87f3ddb5d462@sumasoft.net>",
+      "cc": [
+        "vipul.ande@gmail.com",
+        "prem.chaurasiya@sumasoft.net",
+        "vipul.ande@sumasoft.net"
+      ]
+    },
+    {
+      "to": "awebdev2244@gmail.com",
+      "clientName": "Hello Abhishek",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-19T10:06:10.841Z",
+      "messageId": "<df0774e3-fe9f-1847-17ed-becd22739f91@sumasoft.net>",
+      "cc": [
+        "preeti.swami@sumasoft.net",
+        "priyanka.singh@sumasoft.net"
+      ]
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhi",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-19T10:28:44.369Z",
+      "messageId": "<861eccc6-c126-7938-b05c-46d403c11285@sumasoft.net>",
+      "cc": [
+        "abhishek.shinde@gmail.com"
+      ]
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-19T10:29:56.890Z",
+      "messageId": "<9544a770-9123-e362-91f2-7602e9584660@sumasoft.net>",
+      "cc": [
+        "awebdev2244@gmail.com"
+      ]
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "TEST",
+      "desg": "test mail",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-19T10:32:16.930Z",
+      "messageId": "<61a30fee-ab0b-6d62-1b70-a2e081749aad@sumasoft.net>",
+      "cc": [
+        "afdafasdsa@gm.com",
+        "awebdev2244@gmail.com"
+      ]
+    },
+    {
+      "to": "awebdev2244@gmail.com",
+      "clientName": "Abhishek",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-19T11:17:06.897Z",
+      "messageId": "<ad134714-df33-1754-8782-66e8c55085c7@sumasoft.net>",
+      "cc": [
+        "vipul.ande@sumasoft.net"
+      ]
+    },
+    {
+      "to": "abhishek.shinde11@outlook.com",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-26T09:26:09.381Z",
+      "messageId": "<beba6977-d80a-8b95-e27d-2d6838a50fb4@sumasoft.net>"
+    },
+    {
+      "to": "abhishek.shinde11@outlook.com",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-26T09:30:42.053Z",
+      "messageId": "<7c01702a-fe4a-cbe3-e7bc-05443706f051@sumasoft.net>"
+    },
+    {
+      "to": "abhishek.shinde11@outlook.com",
+      "clientName": "Abhishek",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-26T09:46:12.677Z",
+      "messageId": "<440fccfc-cf76-dbb5-f034-af4f3335072f@sumasoft.net>"
+    },
+    {
+      "to": "abhishek.shinde11@outlook.com",
+      "clientName": "Abhishek",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-26T09:49:52.980Z",
+      "messageId": "<6288e646-55a5-2280-cf0a-d4dd4b26e688@sumasoft.net>"
+    },
+    {
+      "to": "abhishek.shinde11@outlook.com",
+      "clientName": "Abhishek",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-26T09:51:52.094Z",
+      "messageId": "<7234f9c5-feb0-7f22-cfeb-dd2b642bbc5b@sumasoft.net>"
+    },
+    {
+      "to": "abhishek.shinde11@outlook.com",
+      "clientName": "Abhishek",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-26T10:00:13.795Z",
+      "messageId": "<265681e0-390f-8dc5-d10f-d6f3f7db50a4@sumasoft.net>"
+    },
+    {
+      "to": "abhishek.shinde11@outlook.com",
+      "clientName": "Abhishek",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-26T10:04:31.778Z",
+      "messageId": "<a4968884-581c-6566-1920-7e3c7642c490@sumasoft.net>"
+    },
+    {
+      "to": "uiuser06@outlook.com",
+      "clientName": "Ui user",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-26T10:09:28.205Z",
+      "messageId": "<6574238a-f8de-a8eb-8389-3f45a958de72@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T11:43:30.098Z",
+      "messageId": "<1288e2a7-75ca-6772-336d-6a8e4c9ec57c@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "web",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T11:45:52.166Z",
+      "messageId": "<510f2f54-52f4-a36f-e67f-97ae1218e63c@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "testing",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T11:47:47.610Z",
+      "messageId": "<7efee6d4-2b93-4248-a374-bb127b749c5d@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "test",
+      "desg": "test",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T11:48:55.732Z",
+      "messageId": "<4b4c8d1e-e3fb-bc6d-6d8b-8538df382b86@sumasoft.net>"
+    },
+    {
+      "to": "abhishek2244@zohomail.in",
+      "clientName": "abhishek zoho",
+      "sendername": "abhishek",
+      "desg": "test",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T11:51:47.938Z",
+      "messageId": "<4e90629c-b101-d942-ff1f-520e4eb5e277@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "test",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T11:51:47.978Z",
+      "messageId": "<2eff1d39-1df6-8217-0fbb-8bea4efcb17d@sumasoft.net>"
+    },
+    {
+      "to": "abhishek.shinde@sumasoft.net",
+      "clientName": "abhishek",
+      "sendername": "abhishek",
+      "desg": "test",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T11:51:48.513Z",
+      "messageId": "<85e27e56-dda8-f874-c291-1faf622a15ab@sumasoft.net>"
+    },
+    {
+      "to": "abhishek.shinde11@outlook.com",
+      "clientName": "abhishek",
+      "sendername": "abhishek",
+      "desg": "test",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T11:51:49.656Z",
+      "messageId": "<83600d6b-9fb6-4db9-3bfd-055572d581f7@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T11:56:22.964Z",
+      "messageId": "<2b2ee813-4d9e-7eb7-c6bc-c58d5599b876@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T12:04:01.274Z",
+      "messageId": "<51628d5a-963d-aa11-ee89-92c40ac34c0c@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T12:05:35.648Z",
+      "messageId": "<69eb33f6-473a-f282-ae78-954c55471b50@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "demo",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T12:06:22.857Z",
+      "messageId": "<387232fe-01fd-0a95-0e7b-42a5643baffd@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T12:09:03.898Z",
+      "messageId": "<61399d31-76fe-c63d-ce36-cf4afb8cd0e5@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T12:37:55.458Z",
+      "messageId": "<b2fd9021-dacc-5b8c-0a09-3e102249a3a3@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "test",
+      "desg": "mail",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T12:41:52.585Z",
+      "messageId": "<6713185a-ebbb-d235-9a62-f14815cc0e86@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T12:43:19.178Z",
+      "messageId": "<936082b9-685a-8c79-6404-fe7bdd4c2910@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "Web dev",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T12:44:15.209Z",
+      "messageId": "<65189e5c-25d2-a31b-9b7b-268d92bbb6e1@sumasoft.net>"
+    },
+    {
+      "to": "vipul.ande@sumasoft.net",
+      "clientName": "Vipul",
+      "sendername": "abhishek",
+      "desg": "test",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-27T12:53:27.682Z",
+      "messageId": "<206e0eb6-4957-2803-d736-88b957edf591@sumasoft.net>"
+    }
+  ]
+}

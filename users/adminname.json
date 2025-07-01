@@ -1,0 +1,13 @@
+{
+  "mails": [
+    {
+      "to": "someone@example.com",
+      "clientName": "ACME Corp",
+      "sendername": "John Doe",
+      "desg": "Manager",
+      "subject": "Thanking you for Your Invaluable Contribution to Our Growth",
+      "sentAt": "2025-06-04T11:18:41.257Z",
+      "messageId": "123456@domain.com"
+    }
+  ]
+}

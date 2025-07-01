@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>User Mail Logs</title>
+  <!-- DataTables CSS -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+    }
+    input {
+      padding: 10px;
+      width: 400px;
+      margin-bottom: 20px;
+    }
+    #userTable {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 10px;
+      text-align: left;
+    }
+    th {
+      background-color: #f4f4f4;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>User Mail Logs</h2>
+  <input type="text" id="searchInput" placeholder="Enter username to search (e.g. abhishek.shinde@sumasoft.net)" />
+
+  <table id="userTable" class="display">
+    <thead>
+      <tr>
+        <th>UserID</th>
+        <th>Client Name</th>
+        <th>Sender Name</th>
+        <th>Designation</th>
+        <th>To</th>
+        <th>Subject</th>
+        <th>Sent At</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+  <!-- DataTables JS -->
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+  <script>
+  let dataTable;
+
+  function renderTable(data) {
+    const rows = [];
+
+    data.forEach(user => {
+      const userId = user.userid || 'Unknown';
+      (user.mails || []).forEach(mail => {
+        rows.push([
+          userId,
+          mail.clientName || '',
+          mail.sendername || '',
+          mail.desg || '',
+          mail.to || '',
+          mail.subject || '',
+          mail.sentAt || ''
+        ]);
+      });
+    });
+
+    if (dataTable) {
+      dataTable.clear().rows.add(rows).draw();
+    } else {
+      dataTable = $('#userTable').DataTable({
+        data: rows,
+        columns: [
+          { title: "UserID" },
+          { title: "Client Name" },
+          { title: "Sender Name" },
+          { title: "Designation" },
+          { title: "To" },
+          { title: "Subject" },
+          { title: "Sent At" }
+        ],
+        pageLength: 10,
+        responsive: true
+      });
+    }
+  }
+
+  function fetchAll() {
+    $.ajax({
+      url: 'https://154e-103-243-112-226.ngrok-free.app/get-all-users',
+      method: 'GET',
+      success: function (data) {
+        renderTable(data);
+      },
+      error: function (xhr, status, error) {
+        console.error('Error fetching all users:', error);
+      }
+    });
+  }
+
+  function fetchByUsername(username) {
+    $.ajax({
+      url: `https://154e-103-243-112-226.ngrok-free.app/get-user/${encodeURIComponent(username)}`,
+      method: 'GET',
+      success: function (data) {
+        renderTable([data]);
+      },
+      error: function () {
+        if (dataTable) {
+          dataTable.clear().draw();
+        }
+        alert('User not found');
+      }
+    });
+  }
+
+  // Initial load
+  fetchAll();
+
+  // Search on input
+  document.getElementById('searchInput').addEventListener('input', function () {
+    const username = this.value.trim();
+    if (username === '') {
+      fetchAll();
+    } else {
+      fetchByUsername(username);
+    }
+  });
+</script>
+
+
+</body>
+</html>
